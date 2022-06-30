@@ -50,7 +50,7 @@ $ yarn dev
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/silvioam32/b7delivery-silviodev/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/silvioam32/b7delivery-silviodev/blob/main/LICENSE) for more information.
 
 ---
 
